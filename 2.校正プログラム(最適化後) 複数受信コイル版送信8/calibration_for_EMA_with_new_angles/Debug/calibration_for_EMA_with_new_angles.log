@@ -1,0 +1,171 @@
+﻿  stdafx.cpp
+  calibration_for_EMA_with_new_angles.cpp
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(96,9): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,85): warning C4101: 'SiY': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,49): warning C4101: 'Si1': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,77): warning C4101: 'CCY': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,73): warning C4101: 'SiX': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,41): warning C4101: 'CC1': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,97): warning C4101: 'SiZ': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,93): warning C4101: 'CSZ': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,69): warning C4101: 'CSX': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,65): warning C4101: 'CCX': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,45): warning C4101: 'CS1': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(96,7): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,89): warning C4101: 'CCZ': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(98,81): warning C4101: 'CSY': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(181,9): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(181,5): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(279,20): warning C4101: 'anglebuff': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(272,9): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(272,11): warning C4101: 'I': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(272,5): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(279,10): warning C4101: 'POSbuff': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(274,8): warning C4101: 'estG0': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(489,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(493,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(496,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(500,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(502,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(506,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(509,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(513,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(515,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(517,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(538,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(539,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(545,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(554,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(556,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(565,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(583,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(585,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(586,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(588,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(593,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(595,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(600,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(601,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(606,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(607,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(663,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(664,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(1029,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(393,11): warning C4101: 'NOI': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(447,45): warning C4101: 'd_f2': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(449,9): warning C4101: 'sum': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(399,48): warning C4101: 's': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\calibration_for_EMA_with_new_angles\calibration_for_EMA_with_new_angles.cpp(460,7): warning C4101: 'd_name': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/calibration_for_EMA_with_new_angles.cpp' をコンパイルしています)
+  
+  calibration_for_EMA_with_new_angles.vcxproj -> D:\ikeda_data\校正・精度データ\2.校正プログラム(最適化後) 複数受信コイル版送信8\Debug\calibration_for_EMA_with_new_angles.exe
