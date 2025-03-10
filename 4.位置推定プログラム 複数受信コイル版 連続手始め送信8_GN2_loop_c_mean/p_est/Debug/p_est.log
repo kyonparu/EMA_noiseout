@@ -1,0 +1,154 @@
+﻿  p_est.cpp
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(117,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(119,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(143,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(157,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(175,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(178,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(185,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(195,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(198,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(205,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(210,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(230,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(233,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(242,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(246,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(247,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(252,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(253,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(256,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1360,13): warning C4101: 'PP3': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1360,9): warning C4101: 'PP2': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1493,20): warning C4101: 'anglebuff': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1486,9): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1486,11): warning C4101: 'I': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1486,5): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1493,10): warning C4101: 'POSbuff': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1488,8): warning C4101: 'estG0': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1729,129): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+      D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1729,129):
+      プレースホルダーとそのパラメーターには 6 の可変個引数が必要ですが、7 が指定されています。
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1628,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1631,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1655,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1656,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1713,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1715,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1716,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1717,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2091,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2092,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2093,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2488,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2490,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2492,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2526,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2528,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2550,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2552,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2567,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(2568,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1594,9): warning C4101: 'check_state': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\p_est\p_est.cpp(1576,6): warning C4101: 'ss': ローカル変数は 1 度も使われていません。
+  (ソース ファイル '/p_est.cpp' をコンパイルしています)
+  
+  p_est.vcxproj -> D:\ikeda_data\校正・精度データ\4.位置推定プログラム 複数受信コイル版 連続手始め送信8_GN2_loop_c_mean\Debug\p_est.exe
